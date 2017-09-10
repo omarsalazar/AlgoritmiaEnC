@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main(){
-	float a = 10000, b, interes = (.27); 
+	float a = 10000, b, interes = .27; 
 
 	b = a * interes; 
 	printf("\nEl prestamo es de \"%f\" pesos", a);
